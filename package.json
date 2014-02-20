@@ -1,26 +1,7 @@
 {
-  "name": "aug",
-  "description": "a library to augment objects and prototypes",
+  "name": "jgallen23-aug",
   "version": "0.1.0",
-  "homepage": "https://github.com/jgallen23/aug",
-  "author": "Greg Allen <@jgaui> (http://jga.me)",
-  "license": "MIT",
-  "copyright": "JGA",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgallen23/aug.git"
-  },
+  "main": "./dist/aug.min.js",
   "dependencies": {},
-  "devDependencies": {
-    "chai": "*",
-    "mocha": "~1.6.0",
-    "grunt": "~0.3.17",
-    "grunt-simple-mocha": "~0.2.0"
-  },
-  "main": "./lib/aug.js",
-  "keywords": [
-    "extend",
-    "objects",
-    "prototype"
-  ]
+  "license": "MIT"
 }
